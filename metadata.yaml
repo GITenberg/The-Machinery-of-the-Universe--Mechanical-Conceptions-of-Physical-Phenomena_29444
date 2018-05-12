@@ -1,0 +1,29 @@
+_repo: The-Machinery-of-the-Universe--Mechanical-Conceptions-of-Physical-Phenomena_29444
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dolbear, A. E. (Amos Emerson)
+    alias: Dolbear, Amos Emerson
+    birthdate: 1837
+    deathdate: 1910
+    gutenberg_agent_id: '33913'
+    url: http://www.gutenberg.org/2009/agents/33913
+description: ''
+gutenberg_bookshelf: Physics
+gutenberg_issued: '2009-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29444'
+  lccn: '03023377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Force and energy'
+title: 'The Machinery of the Universe: Mechanical Conceptions of Physical Phenomena'
+url: http://www.gutenberg.org/ebooks/29444
