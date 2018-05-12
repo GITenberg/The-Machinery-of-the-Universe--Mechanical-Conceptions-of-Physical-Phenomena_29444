@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33913'
     url: http://www.gutenberg.org/2009/agents/33913
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29444#The-Machinery-of-the-Universe--Mechanical-Conceptions-of-Physical-Phenomena
 gutenberg_bookshelf: Physics
 gutenberg_issued: '2009-07-18'
 gutenberg_type: Text
